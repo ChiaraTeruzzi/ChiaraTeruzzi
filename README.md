@@ -4,7 +4,7 @@
 📚 MSc Management Engineer  
 🔭 I’m currently working on Microsoft Power Platform (Power BI, Power App, Power Automate and Virtual Agent) at Accenture S.p.A.  
 🌱 I’m currently attending the Master of Business Intelligence and Big Data Analytics at the Biccocca University (Milan, Italy)  
-💬 Ask me about Data Visualization, Microsoft Technologies and Project Management / Agile
+💬 Ask me about Data Visualization, Microsoft Technologies and Project Management / Agile  
 📫 How to reach me: chiara.teruzzi@outlook.it  
 ⚡ Fun fact: I'm a Latin Dancer and I love travelling (maybe you can guess the location of my profile picture)  
 
